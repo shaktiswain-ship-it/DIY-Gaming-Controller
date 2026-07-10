@@ -71,7 +71,9 @@ The Python script listens to the COM port and executes the DirectX-level keystro
 Prerequisites:
 
 Bash
+```
 pip install pyserial pydirectinput
+```
 controller.py:
 (Note: Change 'COM5' to match your active Arduino port)
 
